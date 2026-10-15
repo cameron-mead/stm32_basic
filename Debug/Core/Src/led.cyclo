@@ -1,0 +1,7 @@
+../Core/Src/led.c:47:6:led_setup	1
+../Core/Src/led.c:69:6:led_on	1
+../Core/Src/led.c:76:6:led_off	1
+../Core/Src/led.c:84:6:handle_systick_led	3
+../Core/Src/led.c:97:6:handle_led_command	9
+../Core/Src/led.c:141:6:red_led_state_machine	11
+../Core/Src/led.c:206:6:green_led_state_machine	11

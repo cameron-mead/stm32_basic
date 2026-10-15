@@ -1,0 +1,13 @@
+UART.c:8:9:USART_Read_nonblocking	16	static
+UART.c:15:6:USART_Write	32	static
+UART.c:31:6:USART_Delay	24	static
+UART.c:36:6:USART_IRQHandler	24	static
+UART.c:66:9:to_uppercase	16	static
+UART.c:77:9:get_character	8	static
+UART.c:84:6:put_character	16	static
+UART.c:99:6:put_character_literal	16	static
+UART.c:106:6:put_number	40	static
+UART.c:115:6:put_string	16	static
+UART.c:125:6:hide_cursor	8	static
+UART.c:132:6:show_cursor	8	static
+UART.c:139:6:handle_input	8	static

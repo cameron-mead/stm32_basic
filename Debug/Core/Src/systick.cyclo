@@ -1,0 +1,5 @@
+../Core/Src/systick.c:15:6:toggle_systick_interrupt	1
+../Core/Src/systick.c:22:10:get_systick_reload	1
+../Core/Src/systick.c:29:10:get_systick_current	1
+../Core/Src/systick.c:37:6:SysTick_Handler	2
+../Core/Src/systick.c:53:6:handle_second	1

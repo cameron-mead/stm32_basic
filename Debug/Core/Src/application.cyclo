@@ -1,0 +1,3 @@
+../Core/Src/application.c:24:6:prompt	2
+../Core/Src/application.c:36:6:handle_command	7
+../Core/Src/application.c:91:6:main_loop	1

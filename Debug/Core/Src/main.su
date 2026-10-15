@@ -1,0 +1,6 @@
+main.c:14:6:adc_init	16	static
+main.c:34:6:gpio_init	24	static
+main.c:49:6:usart2_init	8	static
+main.c:89:6:init_systick	4	static
+main.c:102:6:System_Clock_Init	16	static
+main.c:201:5:main	8	static

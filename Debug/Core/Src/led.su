@@ -1,0 +1,7 @@
+led.c:47:6:led_setup	8	static
+led.c:69:6:led_on	16	static
+led.c:76:6:led_off	16	static
+led.c:84:6:handle_systick_led	8	static
+led.c:97:6:handle_led_command	24	static
+led.c:141:6:red_led_state_machine	16	static
+led.c:206:6:green_led_state_machine	16	static

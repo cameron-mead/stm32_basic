@@ -1,0 +1,13 @@
+../Core/Src/UART.c:8:9:USART_Read_nonblocking	2
+../Core/Src/UART.c:15:6:USART_Write	4
+../Core/Src/UART.c:31:6:USART_Delay	2
+../Core/Src/UART.c:36:6:USART_IRQHandler	8
+../Core/Src/UART.c:66:9:to_uppercase	3
+../Core/Src/UART.c:77:9:get_character	1
+../Core/Src/UART.c:84:6:put_character	3
+../Core/Src/UART.c:99:6:put_character_literal	1
+../Core/Src/UART.c:106:6:put_number	1
+../Core/Src/UART.c:115:6:put_string	2
+../Core/Src/UART.c:125:6:hide_cursor	1
+../Core/Src/UART.c:132:6:show_cursor	1
+../Core/Src/UART.c:139:6:handle_input	6

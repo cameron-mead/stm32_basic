@@ -1,0 +1,11 @@
+ranger.c:13:6:ranger_setup	8	static
+ranger.c:28:6:timer_setup	4	static
+ranger.c:39:6:enable_ranger	4	static
+ranger.c:43:6:disable_ranger	4	static
+ranger.c:47:10:get_timer_current	4	static
+ranger.c:51:6:handle_echo	8	static
+ranger.c:63:6:set_fixed_range	8	static
+ranger.c:71:6:clear_fixed_range	8	static
+ranger.c:80:9:get_tolerance	8	static
+ranger.c:90:6:trigger_ranger	8	static
+ranger.c:113:6:print_range	24	static

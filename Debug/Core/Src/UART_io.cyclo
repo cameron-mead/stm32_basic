@@ -1,0 +1,5 @@
+../Core/Src/UART_io.c:14:9:to_uppercase	3
+../Core/Src/UART_io.c:25:9:get_character	1
+../Core/Src/UART_io.c:32:6:put_character	3
+../Core/Src/UART_io.c:47:6:put_number	1
+../Core/Src/UART_io.c:56:6:put_string	2

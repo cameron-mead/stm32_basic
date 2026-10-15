@@ -1,0 +1,5 @@
+systick.c:15:6:toggle_systick_interrupt	4	static
+systick.c:22:10:get_systick_reload	4	static
+systick.c:29:10:get_systick_current	4	static
+systick.c:37:6:SysTick_Handler	8	static
+systick.c:53:6:handle_second	8	static
