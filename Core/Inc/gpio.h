@@ -8,17 +8,17 @@
 //
 
 //  port a ( GPIOA ) = 0x00 | pin
-#define POTENTIOMETER       ( 0x00 | 0  )   // gpio PA0     // Arduino A0
+                         //  ( 0x00 | 0  )   // gpio PA0     // Arduino A0
                          // ( 0x00 | 1  )   // gpio PA1     // Arduino A1
 #define USART_TX            ( 0x00 | 2  )   // gpio PA2     // Arduino D1       // RESERVED USART_2 TX
 #define USART_RX            ( 0x00 | 3  )   // gpio PA3     // Arduino D0       // RESERVED USART_2 RX
                          // ( 0x00 | 4  )   // gpio PA4     // Arduino A2
 #define BOARD_LED 	        ( 0x00 | 5  )   // gpio PA5     // Arduino D13      // green board led
-#define GREEN_LED 	        ( 0x00 | 6  )   // gpio PA6     // Arduino D12
+                         // ( 0x00 | 6  )   // gpio PA6     // Arduino D12
 #define RED_LED   	        ( 0x00 | 7  )   // gpio PA7     // Arduino D11
-#define RANGER_ECHO         ( 0x00 | 8  )   // gpio PA8     // Arduino D7
-#define RANGER_TRIGGER      ( 0x00 | 9  )   // gpio PA9     // Arduino D8
-#define RANGER_BUTTON       ( 0x00 | 10 )   // gpio PA10    // Arduino D2
+                         // ( 0x00 | 8  )   // gpio PA8     // Arduino D7
+                         // ( 0x00 | 9  )   // gpio PA9     // Arduino D8
+                         // ( 0x00 | 10 )   // gpio PA10    // Arduino D2
                          // ( 0x00 | 11 )   // gpio PA11                        // USB D-
                          // ( 0x00 | 12 )   // gpio PA12                        // USB D+
 // RESERVED              // ( 0x00 | 13 )   // gpio PA13                        // RESERVED SWDIO

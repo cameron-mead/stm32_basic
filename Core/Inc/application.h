@@ -12,8 +12,6 @@
 
 enum application_mode {
 	NONE	= 0,
-	LED 	= 1,
-	RANGER	= 2
 };
 
 /*
